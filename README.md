@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marcus Vidrányi</h1>
+<h1 align="center">Welcome to my GitHub profile!</h1>
 <p>Hi there! My name is Marcus Vidranyi and I am a Front-End Developer based in Budapest, Hungary. I specialise in ReactJS and have a strong passion for learning to code. I find UI styling fun and enjoy doing research to help shape a company's image in my projects. I strive to create visually appealing, user-friendly interfaces that provide an enjoyable experience. With a commitment to continuous learning and growth, I am excited to bring my skills and dedication to any team in need of an enthusiastic front-end developer.</p>
 <img align="right" alt="Coding" width="400px" src="https://media4.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif?cid=ecf05e47eu5ytu0kf7mnkqn8zpfarp9nqos5om7e22nl0xtq&rid=giphy.gif&ct=g">
 
