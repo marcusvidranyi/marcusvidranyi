@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **client website**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, GraphQL, and Material UI**
 
 - 👨‍💻 All of my projects are available at [https://marcusvidranyi.com/](https://marcusvidranyi.com/)
 
